@@ -8,3 +8,9 @@
 // below is JS code
 const str = "Cloud Computing"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] get an offer soon
+- [ ] hi there
